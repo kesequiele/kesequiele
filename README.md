@@ -1,4 +1,4 @@
-### Olá! Eu sou a Karla ESequiele 👋
+### Olá! Eu sou a Karla Esequiele 👋
 
 - 🔭 Hoje Trabalho Com ADVPL voltado ao ERP Protheus.
 - 😄 Pronomes: Ela/Dela
