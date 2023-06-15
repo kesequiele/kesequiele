@@ -1,3 +1,6 @@
+<img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/yPX28bG/KARLA-01-PNG.png" alt="KARLA-01-PNG" border="0"></a>
+
+
 ### Olá, Eu sou a Karla Esequiele! 👋
 
 - 🔭 Hoje Trabalho Com ADVPL voltado ao ERP Protheus.
@@ -29,5 +32,4 @@
 </a>
 </p>
 
-<img align="right" width="250px" style="margin-top:-40px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
 
