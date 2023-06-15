@@ -10,7 +10,7 @@
 <div>
   
 ##
- 
+ ### 🌐 Redes Socias:
 <div> 
   <a href="https://instagram.com/karla_esequiele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/karla.esequiele#8586" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -22,10 +22,12 @@
 
 ##
 
-<div>
+<p align="center">
 <a href="https://github.com/kesequiele">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesequiele&layout=compact&langs_count=7&theme=material-palenight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kesequiele&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kesequiele&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kesequiele&layout=compact&langs_count=8&theme=material-palenight"/>
+</a>
+</p>
+
 <img align="right" width="250px" style="margin-top:-40px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
 
