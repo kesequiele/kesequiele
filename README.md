@@ -26,8 +26,8 @@
 
 <p align="center">
 <a href="https://github.com/kesequiele">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kesequiele&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kesequiele&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kesequiele&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=kesequiele&repo=kesequiele&theme=material-palenight"/>
 </a>
 </p>
 
