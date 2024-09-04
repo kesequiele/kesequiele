@@ -1,5 +1,4 @@
-<img align="right" width="200px" style="margin-top:-20px" src="https://imgbb.com/"><img src="https://i.ibb.co/5FYq839/KARLA-01-PNG.png" alt="KARLA-01-PNG" border="0"></a>
-
+<img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/yPX28bG/KARLA-01-PNG.png" alt="KARLA-01-PNG" border="0"></a>
 
 ### Olá, Eu sou a Karla Esequiele! 👋
 
