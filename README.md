@@ -3,6 +3,7 @@
 ### Olá, Eu sou a Karla Esequiele! 👋
 
 - 🔭 Hoje Trabalho Com ADVPL voltado ao ERP Protheus.
+- 👩‍💻Estudando a Linguagen Python.
 - 😄 Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
